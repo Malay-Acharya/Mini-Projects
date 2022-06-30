@@ -7,4 +7,5 @@ A Repo containing links to whatever I have worked on so far.
 4. Workspace manager: (Javascript, Google Chrome extension): https://github.com/Malay-Acharya/workspace-manager
 5. Adopt-Cats: (React, React-Router): https://github.com/Malay-Acharya/Adopt-Pets
 6. Dermi-Cure(React): https://github.com/Malay-Acharya/DermiCure-1
-7. Django-App(Python, Django, Learning rn): https://github.com/Malay-Acharya/DjangoApp
+7. PGoals(HTML, CSS, Javascript, Firebase): https://github.com/Malay-Acharya/Pgoals
+8. Django-App(Python, Django, Learning rn): https://github.com/Malay-Acharya/DjangoApp
